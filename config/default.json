@@ -1,0 +1,4 @@
+{
+  "SERVER_PORT": 4000,
+  "MONGO_DB_URI": "mongodb+srv://wwwritesh72660:FMEPvS9bZ6iZRffq@cluster0.x8tikp8.mongodb.net/authenticationSession"
+}
